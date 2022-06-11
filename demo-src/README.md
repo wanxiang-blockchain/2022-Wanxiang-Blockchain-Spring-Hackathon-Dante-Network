@@ -2,7 +2,7 @@
 
 In general, with the help of Dante protocol stack, developers can make their dApps accessible for the whole web3 world no matter which public chain they deployed.
 
-Some classical situations using Dante to extend their abilities are as below:
+Some classical situations based on Dante to extend the access boundaries of dApps are as below:
 
 * [**Venachain and Filecoin**](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-Dante-Network/tree/main/demo-src/VenachainFilecoin): make the storage service on Filecoin could be accessed from Venachain. 
 * [Basic functions](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-Dante-Network/tree/main/demo-src/Basic/cross-chain-demo): include general message communication and contracts invocations between multi-chains.
