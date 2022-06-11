@@ -22,8 +22,6 @@ node applyStorage.js orderdata
 node readArweave.js SYl6y2SUBNu7J89uwgHHRtvmg5xCFXlvvu9lmYuczdk
 ```
 
-
-
 ## Filecoin
 
 ### Install

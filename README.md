@@ -6,7 +6,7 @@
 # Description
 Dante Network is a middleware to empower multi-chain ecosystems to interconnect and interoperate with each other in web3.
 
-In Dante Network, we define and offer a general protocol stack to realize multi-chain interoperability and interconnection. This will bring innovative experiences in web3, just as the Internet protocol is for today’s internet. With this infrastructure, participants in web3 can make universal message transmission and contract invocation across blockchain networks.
+In Dante Network, we define and offer a general protocol stack to realize multi-chain interoperability and interconnection. This will bring innovative experiences in web3, just as the Internet protocol is for today’s internet. With this infrastructure, participants in web3 can make universal message transmission and smart contract invocation across blockchain networks.
 
 ## Solution
 Architecture

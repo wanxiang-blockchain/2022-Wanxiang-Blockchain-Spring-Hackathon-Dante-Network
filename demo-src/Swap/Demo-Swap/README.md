@@ -4,7 +4,7 @@
 
 This is an simple swap demo based on Dante protocol stack.
 
-## Notation
+## Note
 * Add your own `.secret` with private key in it.
 * There's only part of the source files of this project.
 

@@ -1,6 +1,6 @@
 # Privacy transaction solution for Dante Network
 
-## Notation
+## Note
 * This is just for test, so we directly provide related private key in the code. You can use your own private key to try it.
 * This demo is better to be executed on the cloud server oversea.
 
