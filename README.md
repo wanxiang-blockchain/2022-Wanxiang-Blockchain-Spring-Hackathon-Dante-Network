@@ -40,8 +40,4 @@ That’s an overview of the protocol stack in Dante Network. We believe it can b
 
 ## Contact Us
 
-More details of Dante Network are here:
-* [Project Demo Video](https://www.youtube.com/watch?v=CYXx4O8Xgcs)
-* [Pitch Deck & White Paper](https://github.com/dantenetwork/Pitch-Deck) 
-* [Website](https://www.dantechain.com/) 
-* [github](https://github.com/dantenetwork)
+Nika@dantechain.com
