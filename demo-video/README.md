@@ -2,7 +2,7 @@
 
 基于Dante protocol stack可以开发出很多更有趣的dApp，不论这些dApp部署在那条链上，都能在Dante的帮助下成为web3全生态共享的dApp。
 我们提供了以下几个场景的演示视频：
-* 万纳链上的智能合约，数据存在在Filecoin上；
+* 万纳链上的智能合约，数据存储在Filecoin上；
 * 万纳链和其它链之间的智能合约互调；
 * EVM和WASM链之间的智能合约互调；
 * 在Flow上发行NFT，在以太坊上操作；
@@ -10,7 +10,7 @@
 * EVM链上的智能合约，数据存储在Arweave上；
 * 隐私跨链通信。
 
-## 万纳链上的智能合约，数据存在在Filecoin上
+## 万纳链上的智能合约，数据存储在Filecoin上
 https://user-images.githubusercontent.com/83746881/173184894-f45e1670-9ff9-452e-9610-0cd91d0c7347.mp4
 
 
