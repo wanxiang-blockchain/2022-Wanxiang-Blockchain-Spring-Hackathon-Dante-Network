@@ -6,8 +6,8 @@
 * 万纳链和其它链之间的智能合约互调；
 * EVM和WASM链之间的智能合约互调；
 * 在Flow上发行NFT，在以太坊上操作；
-* EVM链上的智能合约，数据存在在Filecoin上；
-* EVM链上的智能合约，数据存在在Arweave上；
+* EVM链上的智能合约，数据存储在Filecoin上；
+* EVM链上的智能合约，数据存储在Arweave上；
 * 隐私跨链通信。
 
 ## 万纳链上的智能合约，数据存在在Filecoin上
@@ -30,12 +30,12 @@ https://user-images.githubusercontent.com/83746881/173184894-f45e1670-9ff9-452e-
 
 
 
-## EVM链上的智能合约，数据存在在Filecoin上
+## EVM链上的智能合约，数据存储在Filecoin上
 https://user-images.githubusercontent.com/83746881/173185179-5949a548-e44b-4e7c-a7b0-350672b98a85.mp4
 
 
 
-## EVM链上的智能合约，数据存在在Arweave上
+## EVM链上的智能合约，数据存储在Arweave上
 [![EVM链上的智能合约，数据存在在Arweave上](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-Dante-Network/blob/main/demo-video/image/EVM%E9%93%BE%E4%B8%8A%E7%9A%84%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%EF%BC%8C%E6%95%B0%E6%8D%AE%E5%AD%98%E5%9C%A8%E5%9C%A8Arweave%E4%B8%8A.png)](https://wanxiang-dante.oss-cn-hangzhou.aliyuncs.com/Special%20router%20serves%20for%20storage%20on%20Arweave.mp4)
 
 
