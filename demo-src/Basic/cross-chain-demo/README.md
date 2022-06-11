@@ -3,6 +3,10 @@
 This `repo` provides two demos showing common message communication and contracts invocation between multi-chains. 
 This is a "Nightly" branch for development. New features will be published here as soon as we make progresses.
 
+## Notation
+* Add your own `.secret` file with your own private key in it.
+* This demo need to be execute on a cloud server oversea.
+
 ## Currently
 
 **Demo for interoperation between EVM chains and WASM chains like NEAR can now be experienced!**
@@ -64,6 +68,3 @@ node platONEVMToNear.js --compute 9,9,8
 
 ## You can find the [source code](https://github.com/dantenetwork/solidity-contract-template/blob/demo-video/contracts/Greetings.sol) of greeting smart contract here.
 
-## Notation
-* Add your own `.secret` file with your own private key in it.
-* This demo need to be execute on a cloud server oversea.

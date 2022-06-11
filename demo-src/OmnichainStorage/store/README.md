@@ -7,7 +7,7 @@ cd arweave
 yarn 
 ```
 
-### run 
+### run a special router(example) functions serving for storage(Arweave)
 ```
 node index.js
 ```
@@ -32,7 +32,7 @@ cd arweave
 yarn 
 ```
 
-### run 
+### run a special router(example) functions serving for storage(Filecoin) 
 ```
 node index.js
 ```

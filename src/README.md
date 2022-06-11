@@ -1,4 +1,4 @@
-# The SDKs and some of the implementation of the protocol stack have been already open source:
+# Part of the implementation and SDKs of Dante protocol stack have been already open source:
 
 * SDK source:
     * [SDK ink!]() is implemented in ink!, which is the build-in smart contract of polkadot.

@@ -1,0 +1,20 @@
+{
+  "name": "privacy-solution",
+  "version": "0.1.0",
+  "description": "",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "bn.js": "^5.1.1",
+    "config": "^3.3.7",
+    "eslint-import-resolver-lerna": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "near-api-js": "^0.45.0",
+    "sm-crypto": "^0.3.8",
+    "web3": "^1.2.4"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "3.1.0-solc-0.7",
+    "eslint": "^5.16.0",
+    "ganache-core": "^2.11.2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Contract": {
+    "privateKey": "0xb45ff5cd2a597d5aaa543c611d25e8880f2fce63a87f3b5bb218ae9df7e12fd0",
+    "address": "0x71fa7558e22ba5265a1e9069dcd2be7c6735be23"
+  },
+  "Alice": {
+    "privateKey": "0xa84a3b0a4b73229c44fba27ecf178c0fe32548d6597cb85ce84b99d086e4786e",
+    "address": "0x7e1575E108a3fcCf878b87D6B359D14425F133b0"
+  },
+  "DANTE": {
+    "privateKey": "0xd14011483405a38c5e440717bbdc7cfb9f4bb70bddb613d289488077515cb46e",
+    "address": "0xD35da7C2f3489e94db203DB8b5E31D000A421c93"
+  },
+  "Carol": {
+    "privateKey": "0x4c3724c083139c6fa9834c924642def17baf353e1783214334270616a1c08539",
+    "address": "0x3f3B2Bd537f23a17fB1574e3caf26F9c608DF18e"
+  },
+  "Dave": {
+    "privateKey": "0x19b3181176fefcca407a1e4ab2c27af618d7ebe2854d0bf3040271194200f092",
+    "address": "0x91d1391478f8ad7D742401BF4Bd1c29F8f3d5151"
+  },
+  "Miner": {
+    "privateKey": "0x767dbe7078ecd5383576ef521b35ad2cdb57317987ded34190357da3259232d2",
+    "address": "0xff97BF027102C01086b6EE08F0060B21c7f83224"
+  }
+}
