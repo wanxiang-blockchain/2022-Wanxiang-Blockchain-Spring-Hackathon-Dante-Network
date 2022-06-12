@@ -2,7 +2,7 @@
 
 In general, with the help of Dante protocol stack, developers can make their dApps accessible for the whole web3 world no matter which public chain they deployed.
 
-We have deployed Dante protocol stack on some EVM chains(Ethereum, BNB, Avalanche, etc.), Near, Flow, etc. So you can try the demos below directly(some of the demos nees you to set your private key first, and you can directly see these senarios at [demo-video](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-Dante-Network/tree/main/demo-video)).
+We have already deployed Dante protocol stack on some EVM chains(Ethereum, BNB, Avalanche, etc.), Near, Flow, etc, and we have deployed some routers in our cloud server. So you can try the demos below directly(some of the demos nees you to set your private key first, and you can directly see these senarios at [demo-video](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-Dante-Network/tree/main/demo-video)).
 
 Besides, we have implemented the protocol stack for Venachain, which needs to launch local Venachain nodes first.
 
